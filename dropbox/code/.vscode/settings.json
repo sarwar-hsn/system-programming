@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "types.h": "c",
+        "system_error": "c",
+        "hashtable.h": "c",
+        "common.h": "c",
+        "socket.h": "c",
+        "array": "c",
+        "string_view": "c",
+        "type_traits": "c"
+    }
+}
