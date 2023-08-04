@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "commands.h": "c",
+        "limits.h": "c",
+        "queue.h": "c",
+        "protocols.h": "c",
+        "semaphore.h": "c",
+        "mman.h": "c",
+        "stdlib.h": "c"
+    }
+}
